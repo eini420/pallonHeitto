@@ -33,6 +33,7 @@ def laske_heiton_parametrit(alkunopeus, kulma_asteina, painovoima):
 
 def main():
     # Kysytään käyttäjältä taivaankappaleen valinta
+    print("Tätä muokattu:")
     print("Missä haluat heittää palloa? Valitse yksi seuraavista:")
     print("1. Maa\n2. Kuu\n3. Mars\n4. Jupiter\n5. Aurinko")
     valinta = input("Anna valintasi (1, 2, 3, 4 tai 5): ")
