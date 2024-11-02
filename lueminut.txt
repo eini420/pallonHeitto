@@ -1,0 +1,12 @@
+
+===============================
+
+Pallonheittolaskuri
+Copyright: Tero Niemi & ChatGPT
+2.11.2024
+
+===============================
+
+Ohjelma kysyy alussa minkä taivaankappaleen pinnalla halutaan palloa heittää.
+Tämän jälkeen annetaan lähtönopeus ja heittokulma ja ohjelma laskee kuinka pitkälle heitto
+kantaa, missä se käy korkeimmillaan. Ohjelma ilmoittaa myös heiton keston sekunteina.
