@@ -1,5 +1,8 @@
 import math
 
+# heippa tässä muutos!!
+
+
 # Painovoima-arvot eri taivaankappaleille
 painovoimat = {
     "1": ("Maa", 9.81),      # m/s^2
